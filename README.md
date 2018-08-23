@@ -13,4 +13,6 @@ Unity自带的NavMesh很容易解决这方面的问题，而且正常情况下�
 5.需要有动态阻挡，开启后才能进入下一个区域
 ![Snapshot](./Snapshots/5.area.png)
 
-目前这些功能都已经实现，[game.unity](https://github.com/genechiu/NavMesh/tree/master/Assets/Scenes)是一个完整的演示，
+目前这些功能都已经实现，[game.unity](https://github.com/genechiu/NavMesh/tree/master/Assets/Scenes)是一个完整的演示，左右键点击小地图创建人物和行走，WASD可以走，中键调整镜头，空格开启下一个区域。
+
+下面来说说遇到的一些问题和采用的解决方案。
